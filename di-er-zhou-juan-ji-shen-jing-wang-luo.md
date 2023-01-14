@@ -1,5 +1,5 @@
 ---
-description: 卷积神经网络基础
+description: 卷积神经网络基础：卷积、池化、全连接、AlexNet、VGG、GoogleNet、ResNet
 ---
 
 # 【第二周】卷积神经网络
