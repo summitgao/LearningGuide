@@ -52,3 +52,7 @@ description: 深度学习和 pytorch 基础
 【第二部分】代码练习
 
 在谷歌 Colab 上完成 pytorch 代码练习中的 2.1 pytorch基础练习、2.2 螺旋数据分类，关键步骤截图，并附一些自己的想法和解读。
+
+
+
+_<mark style="color:red;">**热爱学习，拒绝划水\~\~\~**</mark>_
