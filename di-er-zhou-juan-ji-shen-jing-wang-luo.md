@@ -4,7 +4,7 @@ description: 卷积神经网络基础
 
 # 【第二周】卷积神经网络
 
-**Part1  视频学习：**学习专知课程《[卷积神经网络](https://www.aliyundrive.com/s/SquY35XNbXQ)》，主要内容包括：
+**Part1  视频学习：**学习专知课程《卷积神经网络》，主要内容包括：
 
 * CNN的基本结构：卷积、池化、全连接
 * 典型的网络结构：AlexNet、VGG、GoogleNet、ResNet
@@ -15,9 +15,7 @@ description: 卷积神经网络基础
 * CIFAR10 数据集分类：使用 CNN 对 CIFAR10 数据集进行分类，链接：[https://github.com/OUCTheoryGroup/colab\_demo/blob/master/05\_02\_CNN\_CIFAR10.ipynb](https://github.com/OUCTheoryGroup/colab\_demo/blob/master/05\_02\_CNN\_CIFAR10.ipynb)
 * 使用 VGG16 对 CIFAR10 分类，链接：[https://github.com/OUCTheoryGroup/colab\_demo/blob/master/05\_03\_VGG\_CIFAR10.ipynb](https://github.com/OUCTheoryGroup/colab\_demo/blob/master/05\_03\_VGG\_CIFAR10.ipynb)
 
-本周需要各个小组写一个学习博客，并回答下面的问题，**博客链接在下面提交任务即可**，时间截止为**本周六（10月15日22：00）**
-
-本周写博客需要思考的问题：\
+写一个学习博客，并回答下面的问题：\
 1、dataloader 里面 shuffle 取不同值有什么区别？\
 2、transform 里，取了不同值，这个有什么区别？\
 3、epoch 和 batch 的区别？\
