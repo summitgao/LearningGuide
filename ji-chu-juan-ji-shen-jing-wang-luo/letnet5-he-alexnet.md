@@ -2,9 +2,7 @@
 
 使用CNN解决图像分类问题可以往前追溯到1998年LeCun发表的论文，其中提出了用于解决手写数字识别问题的LeNet。LeNet又名LeNet-5，是因为在LeNet中使用的均是5×5的卷积核。LeNet-5的网络结构如下图所示。
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">
-
-LetNet-5的网络结构
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>LeNet-5的网络结构</p></figcaption></figure>
 
 LeNet-5中使用的结构直接影响了其后的几乎所有CNN，卷积层 + 降采样层 + 全连接层至今仍然是最主流的结构。卷积操作使网络可以响应和卷积核形状类似的特征，而降采样操作则使网络拥有了一定程度的不变性。
 
@@ -56,6 +54,14 @@ class LeNet(nn.Module):                    # 继承父类nn.Module
 ```
 
 
+
+LeNet-5之后，CNN沉寂了约14年。直到2012年，AlexNet在ILSVRC中一举夺魁，直接把在ImageNet数据集上的精度提升了约10个百分点，它将CNN的深度和宽度都提升到了传统算法无法企及的新高度。从此，深度学习开始在CV的各个领域“披荆斩棘”，至今深度学习仍是人工智能最热门的话题。
+
+AlexNet作为教科书式的网络，值得每个学习深度学习的人深入研究。 AlexNet的名字取自该模型的第一作者Alex Krizhevsky。AlexNet在ImageNet中的120万张图片的1 000类分类任务上的top-1错误率是37.5%，top-5错误率则是15.3%（直接比第二名的26.2%低了约10个百分点）。
+
+AlexNet如此成功的原因是其使网络的宽度和深度达到了前所未有的高度，而该模型也使网络的可学习参数达到了58 322 314个。为了学习这些参数，AlexNet并行使用了两块GTX 580，大幅提升了训练速度。 使用分组卷积是因为硬件资源有限，不得不将模型分到两块GPU上运行。
+
+AlexNet网络的架构如下图所示：
 
 
 
