@@ -63,3 +63,5 @@ Inception v3将Inception v1和Inception v2中的n×n 卷积换成一个n ×1 和
 值得注意的是，在 Inception A 模块中，使用了 1X1 的卷积对 feature map进行降维，大大降低了网络的参数量（如下图所示）。这个在《深度学习：算法到实战》视频课程中有详细的解释，这里不再多说。
 
 <figure><img src="../.gitbook/assets/微信截图_20230123191137.jpg" alt=""><figcaption></figcaption></figure>
+
+后来出现 InceptionV4 是受了ResNet影响，引入了残差结构来提升性能。这里不再过多介绍。
