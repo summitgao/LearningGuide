@@ -9,3 +9,4 @@
   * [LetNet-5和AlexNet](ji-chu-juan-ji-shen-jing-wang-luo/letnet5-he-alexnet.md)
   * [VGG网络：更深](ji-chu-juan-ji-shen-jing-wang-luo/vgg-wang-luo-geng-shen.md)
   * [GoogLeNet网络：更宽](ji-chu-juan-ji-shen-jing-wang-luo/googlenet-wang-luo-geng-kuan.md)
+  * [ResNet](ji-chu-juan-ji-shen-jing-wang-luo/resnet.md)
