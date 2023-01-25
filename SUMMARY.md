@@ -20,3 +20,5 @@
 * [轻量级CNN](lightweight\_CNN/README.md)
   * [MobileNetV1](lightweight\_CNN/01\_MobileNetV1.md)
   * [MobileNetV2](lightweight\_CNN/02\_MobileNetV2.md)
+
+## 🚀 研究生培养常用文件
