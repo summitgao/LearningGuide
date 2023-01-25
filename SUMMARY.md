@@ -25,4 +25,4 @@
 
 * [计算机学院关于进一步加强硕士研究生管理的规定](common\_files/reinforce\_management.md)
 * [奖学金科研成果积分规则参考标准](common\_files/score\_guide.md)
-* [学部研究生奖学金评审办法](common\_files/xue-bu-yan-jiu-sheng-jiang-xue-jin-ping-shen-ban-fa.md)
+* [学部研究生奖学金评审办法](common\_files/xue\_bu.md)
