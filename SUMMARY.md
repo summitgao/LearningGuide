@@ -11,3 +11,5 @@
   * [GoogLeNet网络：更宽](note\_cnn\_basic/03\_googlenet.md)
   * [ResNet](note\_cnn\_basic/04\_resnet.md)
   * [DenseNet](note\_cnn\_basic/05\_DenseNet.md)
+* [轻量级CNN](lightweight\_CNN/README.md)
+  * [MobileNetV1](lightweight\_CNN/01\_MobileNetV1.md)
