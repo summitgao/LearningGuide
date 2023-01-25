@@ -2,11 +2,11 @@
 
 * [Welcome](README.md)
 
-## 🏁 学习指导
+## 🏁 学习指导 <a href="#learning_guide" id="learning_guide"></a>
 
-* [《深度学习：算法到实战》学习指导](xue-xi-zhi-dao/shen-du-xue-xi-suan-fa-dao-shi-zhan-xue-xi-zhi-dao-shu.md)
-* [【第一周】深度学习基础](xue-xi-zhi-dao/week01\_basic.md)
-* [【第二周】卷积神经网络](xue-xi-zhi-dao/week02\_CNNs.md)
+* [《深度学习：算法到实战》学习指导](learning\_guide/intro.md)
+* [【第一周】深度学习基础](learning\_guide/week01\_basic.md)
+* [【第二周】卷积神经网络](learning\_guide/week02\_CNNs.md)
 
 ## 🤖 学习笔记
 
