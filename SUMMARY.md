@@ -13,3 +13,4 @@
   * [DenseNet](note\_cnn\_basic/05\_DenseNet.md)
 * [轻量级CNN](lightweight\_CNN/README.md)
   * [MobileNetV1](lightweight\_CNN/01\_MobileNetV1.md)
+  * [MobileNetV2](lightweight\_CNN/02\_MobileNetV2.md)
