@@ -33,5 +33,3 @@ self.bn3 = nn.BatchNorm2d(out_planes)
 ```
 
 再后来，谷歌公司又提出了MobileNetV3，主要特点是结合了 SENet 中的注意力机制。不再过多介绍，感兴趣可以看 B站网友的教学视频《[MobileNetv3网络详解](https://www.bilibili.com/video/BV1GK4y1p7uE)》。
-
-$$ z=x+y $$
