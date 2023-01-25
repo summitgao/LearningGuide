@@ -1,12 +1,12 @@
-# 学习笔记之基础卷积神经网络
+# 基础卷积神经网络
 
 物体分类是计算机视觉（computer vision，CV）中最经典的、也是目前研究得最为透彻的一个领域。物体分类常用的数据集有手写数字识别数据集MNIST、物体识别数据集CIFAR-10（10类）和类别更多的CIFAR-100（100类），以及超大数据集ImageNet。
 
-ImageNet是由李飞飞教授主导的ILSVRC（ImageNet Large Scale Visual Recognition Challenge）中使用的数据集，每年的ILSVRC（此处指ILSVRC的物体分类任务）中产生的网络也指引了分类网络的发展方向。
+ImageNet是由李飞飞教授主导的ILSVRC（ImageNet Large Scale Visual Recognition Challenge）中使用的数据集，每年的ILSVRC（此处指ILSVRC的物体分类任务）中产生的网络也指引了分类网络的发展方向。&#x20;
 
-2012年，第三届ILSVRC的冠军作品Hinton团队的AlexNet，将2011年的top-5错误率从25.8%降低到16.4%。他们的最大贡献在于验证了卷积操作在大数据集上的有效性，从此物体分类进入了深度学习时代。
+2012年，第三届ILSVRC的冠军作品Hinton团队的AlexNet，将2011年的top-5错误率从25.8%降低到16.4%。他们的最大贡献在于验证了卷积操作在大数据集上的有效性，从此物体分类进入了深度学习时代。&#x20;
 
-2013年，ILSVRC已被深度学习算法“霸榜”，冠军作品ZFNet使用了更深的深度，并且其论文给出了卷积神经网络（CNN）的有效性的初步解释。
+2013年，ILSVRC已被深度学习算法“霸榜”，冠军作品ZFNet使用了更深的深度，并且其论文给出了卷积神经网络（CNN）的有效性的初步解释。&#x20;
 
 2014年是深度学习领域分类算法“井喷式”发展的一年，在物体检测方向也是如此。这一届ILSVRC物体分类任务的冠军作品是Google团队提出的GoogLeNet（top-5错误率：7.3%），亚军作品则是牛津大学的VGG（top-5错误率：8.0%），但是在物体检测任务中VGG击败了GoogLeNet。VGG利用的搭建CNN的思想现在来看依旧具有指导性，例如按照降采样的分布对网络进行分块，使用小卷积核，每次降采样之后 feature map 的数量加倍，等等。另外VGG使用了当初贾扬清提出的Caffe作为深度学习框架并开源了其模型，凭借比GoogLeNet更快的特性，VGG很快占有了大量的市场，尤其是在物体检测领域。VGG也凭借增加深度来提升精度的思想将CNN推上了“最高峰”。GoogLeNet则从特征多样性的角度研究了CNN结构，GoogLeNet的特征多样性是基于一种并行的、使用了多个不同尺寸的卷积核的Inception单元来实现的。GoogLeNet的最大贡献在于指出CNN精度的增加不仅仅可以依靠深度实现，增加网络的复杂性也是一种有效的策略。
 
@@ -14,4 +14,13 @@ ImageNet是由李飞飞教授主导的ILSVRC（ImageNet Large Scale Visual Recog
 
 2016年ILSVRC的前几名作品都是通过模型集成实现的，CNN的结构创新陷入了短暂的停滞。当年的冠军作品是商汤公司和香港中文大学联合推出的CUImage，它是6个模型的集成，并无创新性，此处不赘述。2017年是ILSVRC的最后一届，这一届的冠军是Momenta团队，他们提出了基于注意力机制的SENet（top-5错误率：2.21%），其通过自注意力（self-attention）机制为每个特征图计算出一个权重。另外一个非常重要的网络是黄高团队于CVPR 2017提出的DenseNet，本质上是各个单元相互连接的密集连接结构。
 
-除了ILSVRC中各个冠军作品，在提升网络精度方面还有一些值得我们学习的算法，例如Inception的几个变种、DenseNet，下面将分类进行介绍。
+除了ILSVRC中各个冠军作品，在提升网络精度方面还有一些值得我们学习的算法，例如Inception的几个变种、结合了DenseNet和残差网络的DPN。 由于Transformer在自然语言处理任务上取得的突破性进展，将Transformer应用到分类网络成为近年来非常火热的研究方向，比较有代表性的包括iGPT、ViT、Swin Transformer，以及混合使用CNN和Transformer的CSWin Transformer等等，下面将分类进行介绍。
+
+
+
+
+
+
+
+
+
