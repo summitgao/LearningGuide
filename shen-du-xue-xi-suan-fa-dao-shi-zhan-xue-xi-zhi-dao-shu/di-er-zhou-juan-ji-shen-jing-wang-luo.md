@@ -35,6 +35,4 @@ description: 卷积神经网络基础：卷积、池化、全连接、AlexNet、
 
 如果还有其它问题，可以总结一下，写在博客里，下周一起讨论。
 
-
-
-_<mark style="color:red;">**热爱学习，拒绝划水 \~\~\~**</mark>_&#x20;
+_<mark style="color:red;">**热爱学习，拒绝划水 \~\~\~**</mark>_
