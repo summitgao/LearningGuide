@@ -10,3 +10,4 @@
   * [VGG网络：更深](note\_cnn\_basic/02\_vgg.md)
   * [GoogLeNet网络：更宽](note\_cnn\_basic/03\_googlenet.md)
   * [ResNet](note\_cnn\_basic/04\_resnet.md)
+  * [DenseNet](note\_cnn\_basic/05\_DenseNet.md)
