@@ -8,6 +8,7 @@
 * [《深度学习：算法到实战》学习指导](learning\_guide/intro.md)
 * [【第一周】深度学习基础](learning\_guide/week01\_basic.md)
 * [【第二周】卷积神经网络](learning\_guide/week02\_CNNs.md)
+* [【第三周】ResNet+ResNeXt](learning\_guide/week03\_resnet\_resnext.md)
 
 ## 🤖 学习笔记 <a href="#learning_note" id="learning_note"></a>
 
