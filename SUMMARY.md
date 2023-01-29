@@ -24,6 +24,11 @@
   * [ResNeXt](learning\_note/lightweight\_cnn/resnext.md)
   * [ShuffleNet](learning\_note/lightweight\_cnn/shufflenet.md)
 
+***
+
+* [模型优化](model\_optimization/README.md)
+  * [Dropout](model\_optimization/dropout.md)
+
 ## 🚀 研究生培养常用文件 <a href="#common_files" id="common_files"></a>
 
 * [计算机学院关于进一步加强硕士研究生管理的规定](common\_files/reinforce\_management.md)
