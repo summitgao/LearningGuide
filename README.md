@@ -1,8 +1,9 @@
 ---
+description: 欢迎来到中国海洋大学AI前沿理论组主页！
 coverY: 0
 ---
 
-# Welcome
+# 😁 Welcome
 
 🎯AI前沿理论组是[中国海洋大学人工智能研究院](https://ai-ouc.cn)的一个多学科交叉研究小组，董军宇教授为总负责人。🚀课题组主要针对视觉数据（多媒体数据、自然纹理、遥感图像）进行研究，实现视觉数据高精度、高效解译及分析。
 
@@ -29,18 +30,25 @@ coverY: 0
 * 2022.05 [小组成员顺利通过硕士论文毕业答辩](https://blog.csdn.net/gaopursuit/article/details/124792047)
 * 2022.03 [董军宇教授应邀在 “同心坚守 研学战疫”学术系列活动做报告](https://blog.csdn.net/gaopursuit/article/details/124792030)
 
-### 🍀代表论文
+### 🍀代表论文 \[[详细列表](readme/lun-wen-cheng-guo.md)]
 
-_****_
+1. Y. Meng, E. Rigall, X. Chen, F. Gao, J. Dong and S. Chen, "Physics-Guided Generative Adversarial Networks for Sea Subsurface Temperature Prediction," _IEEE Transactions on Neural Networks and Learning Systems_. (In Press and Accepted) \[[PDF](https://ieeexplore.ieee.org/document/9610615)]
+2. M. Wang, F. Gao, J. Dong, H. -C. Li and Q. Du, "Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-16, 2023. \[[PDF](https://ieeexplore.ieee.org/document/10015054)]\[[Code@Github](https://github.com/summitgao/NNCNet)]
+3. L. Qi, Z. Chen, F. Gao, J. Dong, X. Gao and Q. Du, "Multiview Spatial-Spectral Two-Stream Network for Hyperspectral Image Unmixing," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-16, 2023. \[[PDF](https://ieeexplore.ieee.org/document/10018370)]
+4. Y. Gan, F. Gao, J. Dong, S. Chen, "Arbitrary-Scale Texture Generation from Coarse-Grained Control," _IEEE Transactions on Image Processing_, vol. 31, pp. 5841-5855, 2022. \[[PDF](https://ieeexplore.ieee.org/document/9875113)]
+5. Y. Gan, X. Dong, H. Zhou, F. Gao and J. Dong, “Learning the Precise Feature for Cluster Assignment,” _IEEE Transactions on Cybernetics_, vol. 52, no. 8, pp. 8587-8600, 2022. \[[PDF](https://ieeexplore.ieee.org/document/9457204)]
+6. L. Qi, F. Gao, J. Dong, X. Gao and Q. Du, "SSCU-Net: Spatial–Spectral Collaborative Unmixing Network for Hyperspectral Images," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, 2022, Art no. 5407515. \[[PDF](https://ieeexplore.ieee.org/document/9709843)]
+7. Y. Gao， X. Feng, T. Zhang, E. Rigall, H. Zhou, L. Qi, J. Dong, "Wallpaper Texture Generation and Style Transfer Based on Multi-label Semantics," _IEEE Transactions on Circuits and Systems for Video Technology,_ vol. 32, no. 3, pp. 1552-1563, 2022. \[[PDF](https://ieeexplore.ieee.org/document/9427254)]
+8. Z. Wang, J. Dong, X. Liu, X. Zeng, "Low-Rank Tensor Completion by Approximating the Tensor Average Rank," ICCV 2021. \[[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Wang\_Low-Rank\_Tensor\_Completion\_by\_Approximating\_the\_Tensor\_Average\_Rank\_ICCV\_2021\_paper.html)]
+9. Y. Ju, J. Dong and S. Chen, "Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo," _IEEE Transactions on Image Processing_, vol. 30, pp. 3676-3690, 2021. \[[PDF](https://ieeexplore.ieee.org/document/9376632/)]
+10. J. Wang, F. Gao, J. Dong and Q. Du, "Adaptive DropBlock-Enhanced Generative Adversarial Networks for Hyperspectral Image Classification," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 59, no. 6, pp. 5040-5053, June 2021. （ESI 高被引论文）\[[PDF](https://ieeexplore.ieee.org/document/9173809)]\[[Code@Github](https://github.com/summitgao/HC\_ADGAN)]
 
-_****_
+### 🍀生存手册
 
-《OUC AI理论组生存手册》于2022年由高峰老师创建，由组内研究生共同维护，旨在将组内学习资源制作成gitbook发布，并长期维护该项目，希望能给高年级本科生及实验室新生同学带来微小的帮助，尤其感谢本书相关内容的作者们！
+《OUC AI理论组生存手册》于2022年由高峰老师创建，由组内研究生共同维护，旨在将组内学习资源制作成gitbook发布，并长期维护该项目，希望能给高年级本科生及实验室新生同学带来微小的帮助，尤其感谢本书相关内容的作者们！目前暂定修改及添加内容如下：
 
-目前暂定修改及添加内容如下：
-
-**【第一部分】**[《深度学习：算法到实战》课程学习指导](learning\_guide/intro.md)，供高年级本科生及研一同学入门学习使用。本课程的视频资料可以在[网易云课堂](https://study.163.com/course/introduction/1006498024.htm?inLoc=ss\_ssjg\_qblb\_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%9A%E7%AE%97%E6%B3%95%E5%88%B0%E5%AE%9E%E6%88%98)获取，目前价格只要0.1元，非常划算。主要内容包括DNN、CNN、RNN/LSTM、GAN以及强化学习等，应用实例包括计算机视觉的图像分类、目标检测、图像生成等，帮助学员了解、理解、掌握深度学习的基础和前沿算法，并拥有深度学习算法实战技能。
-
-**【第二部分】**“高手学习笔记”，主要包括研究小组成员需要掌握的一些典型算法。
+* [x] **【第一部分】**[《深度学习：算法到实战》课程学习指导](learning\_guide/intro.md)，供高年级本科生及研一同学入门学习使用。本课程的视频资料可以在[网易云课堂](https://study.163.com/course/introduction/1006498024.htm?inLoc=ss\_ssjg\_qblb\_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%9A%E7%AE%97%E6%B3%95%E5%88%B0%E5%AE%9E%E6%88%98)获取，目前价格只要0.1元，非常划算。主要内容包括DNN、CNN、RNN/LSTM、GAN以及强化学习等，应用实例包括计算机视觉的图像分类、目标检测、图像生成等，帮助学员了解、理解、掌握深度学习的基础和前沿算法，并拥有深度学习算法实战技能。
+* [x] **【第二部分】**“高手学习笔记”，主要包括研究小组成员需要掌握的一些典型算法。
+* [x] **【第三部分】**研究生培养常用文件。
 
 相关内容仍在修订，随时更新！大家有问题欢迎随时邮件联系：gaofeng@ouc.edu.cn

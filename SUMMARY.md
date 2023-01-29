@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [😁 Welcome](README.md)
   * [论文成果](readme/lun-wen-cheng-guo.md)
 
 ## 🏁 学习指导 <a href="#learning_guide" id="learning_guide"></a>
