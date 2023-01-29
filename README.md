@@ -30,7 +30,7 @@ coverY: 0
 * 2022.05 [小组成员顺利通过硕士论文毕业答辩](https://blog.csdn.net/gaopursuit/article/details/124792047)
 * 2022.03 [董军宇教授应邀在 “同心坚守 研学战疫”学术系列活动做报告](https://blog.csdn.net/gaopursuit/article/details/124792030)
 
-### 🍀代表论文 \[[详细列表](readme/lun-wen-cheng-guo.md)]
+### 🍀代表论文 \[[详细列表](readme/papers.md)]
 
 1. Y. Meng, E. Rigall, X. Chen, F. Gao, J. Dong and S. Chen, "Physics-Guided Generative Adversarial Networks for Sea Subsurface Temperature Prediction," _IEEE Transactions on Neural Networks and Learning Systems_. (In Press and Accepted) \[[PDF](https://ieeexplore.ieee.org/document/9610615)]
 2. M. Wang, F. Gao, J. Dong, H. -C. Li and Q. Du, "Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-16, 2023. \[[PDF](https://ieeexplore.ieee.org/document/10015054)]\[[Code@Github](https://github.com/summitgao/NNCNet)]
@@ -52,3 +52,5 @@ coverY: 0
 * [x] **【第三部分】**研究生培养常用文件。
 
 相关内容仍在修订，随时更新！大家有问题欢迎随时邮件联系：gaofeng@ouc.edu.cn
+
+<figure><img src=".gitbook/assets/0697e51e-7fdf-4ce1-a9c8-26d5d05a7d60.jpg" alt=""><figcaption></figcaption></figure>
