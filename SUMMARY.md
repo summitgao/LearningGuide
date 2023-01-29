@@ -28,6 +28,7 @@
 
 * [模型优化](model\_optimization/README.md)
   * [Dropout](model\_optimization/dropout.md)
+  * [BN](model\_optimization/bn.md)
 
 ## 🚀 研究生培养常用文件 <a href="#common_files" id="common_files"></a>
 
