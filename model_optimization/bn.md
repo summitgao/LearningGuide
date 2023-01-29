@@ -10,5 +10,5 @@ Batch Normalization (BN) 是在深度学习中缓解过拟合时选择的诸多�
 
 <figure><img src="../.gitbook/assets/26bef466d7542b0c704f230f819b8316.jpg" alt=""><figcaption></figcaption></figure>
 
-
+正常来看，使用BN时，batch 设置越大越好，越能接受真实的数据分布。但是硬件资源有限，batch 设置合理即可。
 
