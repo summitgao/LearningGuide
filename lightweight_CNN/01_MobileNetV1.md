@@ -8,17 +8,17 @@ ResNet，网络已经达到152层，模型大小动辄300MB+。巨大的存储�
 
 一般来说，输入卷积的通道数如果是_Ci_，输出的通道数如果是_Co_，卷积核大小为 _k_x_k_，那么卷积的参数量就是 _Ci x Co x k x k_。 如下图所示，卷积核大小为3x3，参数量为：3x4x3x3=108。
 
-<figure><img src="../../.gitbook/assets/微信截图_20230125162417.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信截图_20230125162417.jpg" alt=""><figcaption></figcaption></figure>
 
 为了降低卷积中的参数，谷歌研究人员提出将常规卷积拆分为 Depthwise 和 Pointwise 两部分。
 
 _**Depth-wise Conv：**_ 处理上述图像，分为三组处理，卷积核的数量与输入的通道数相同（即组数），所以经过运算生成三个 feature map，卷积的参数为：3x3x3=27。 Depthwise没有充分利用不同通道上相同位置的信息，因此需要 Pointwise 来将这些特征重新整合。
 
-<figure><img src="../../.gitbook/assets/微信截图_20230125162515.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信截图_20230125162515.jpg" alt=""><figcaption></figcaption></figure>
 
 _**Point-wise Conv：**_ 卷积核尺寸为 1x1x通道数。其实是将 Depthwise 的结果逐像素加权融合。但是，这里有几个 filter 输出就有几个通道。如下图所示，参数量为：1x1x3x4=12。
 
-<figure><img src="../../.gitbook/assets/微信截图_20230125162607.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信截图_20230125162607.jpg" alt=""><figcaption></figcaption></figure>
 
 因此，现在通过 Depthwise 和 Pointwise 操作，卷积参数量为：27+12 = 39，显著小于原来的 108。
 
@@ -36,6 +36,6 @@ self.conv2 = nn.Conv2d(in_planes, out_planes, kernel_size=1,
 
 MobileNetV1 的网络架构如下（注意观察最后的输出部分），作者做实验与 GoogleNet，VGG16 进行了比较，可以看到准确率相当的情况下，参数量显著降低。
 
-<figure><img src="../../.gitbook/assets/微信截图_20230125162754.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信截图_20230125162754.jpg" alt=""><figcaption></figcaption></figure>
 
 B站上有网友对于 MobileNetV1 的详细视频解读《[MobileNet网络详解](https://www.bilibili.com/video/BV1yE411p7L7)》，可以结合视频学习。

@@ -2,7 +2,7 @@
 
 使用CNN解决图像分类问题可以往前追溯到1998年LeCun发表的论文，其中提出了用于解决手写数字识别问题的LeNet。LeNet又名LeNet-5，是因为在LeNet中使用的均是5×5的卷积核。LeNet-5的网络结构如下图所示。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>LeNet-5的网络结构</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>LeNet-5的网络结构</p></figcaption></figure>
 
 LeNet-5中使用的结构直接影响了其后的几乎所有CNN，卷积层 + 降采样层 + 全连接层至今仍然是最主流的结构。卷积操作使网络可以响应和卷积核形状类似的特征，而降采样操作则使网络拥有了一定程度的不变性。
 
@@ -61,7 +61,7 @@ AlexNet如此成功的原因是其使网络的宽度和深度达到了前所未�
 
 AlexNet网络的架构如下图所示：
 
-<figure><img src="../../.gitbook/assets/09ee9037bc724dddeec42ca40d443819.jpg" alt=""><figcaption><p>AlexNet 网络架构</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/09ee9037bc724dddeec42ca40d443819.jpg" alt=""><figcaption><p>AlexNet 网络架构</p></figcaption></figure>
 
 得益于显卡显存性能的提升，目前该网络在单块GPU上的训练已经毫无压力。除了两块GPU训练以外，该网络还有如下特点：
 

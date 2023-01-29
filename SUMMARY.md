@@ -11,17 +11,18 @@
 
 ## 🤖 学习笔记 <a href="#learning_note" id="learning_note"></a>
 
-* [学习笔记之引言](learning\_note/note\_intro.md)
-* [学习笔记之基础卷积神经网络](learning\_note/note\_cnn\_basic/README.md)
-  * [LetNet-5和AlexNet](learning\_note/note\_cnn\_basic/01\_lenet\_alexnet.md)
-  * [VGG网络：更深](learning\_note/note\_cnn\_basic/02\_vgg.md)
-  * [GoogLeNet网络：更宽](learning\_note/note\_cnn\_basic/03\_googlenet.md)
-  * [ResNet](learning\_note/note\_cnn\_basic/04\_resnet.md)
-  * [DenseNet](learning\_note/note\_cnn\_basic/05\_densenet.md)
-* [轻量级CNN](learning\_note/lightweight\_cnn/README.md)
-  * [MobileNetV1](learning\_note/lightweight\_cnn/01\_mobilenetv1.md)
-  * [MobileNetV2](learning\_note/lightweight\_cnn/02\_mobilenetv2.md)
+* [学习笔记之引言](note\_intro.md)
+* [学习笔记之基础卷积神经网络](note\_cnn\_basic/README.md)
+  * [LetNet-5和AlexNet](note\_cnn\_basic/01\_lenet\_alexnet.md)
+  * [VGG网络：更深](note\_cnn\_basic/02\_vgg.md)
+  * [GoogLeNet网络：更宽](note\_cnn\_basic/03\_googlenet.md)
+  * [ResNet](note\_cnn\_basic/04\_resnet.md)
+  * [DenseNet](note\_cnn\_basic/05\_DenseNet.md)
+* [轻量级CNN](lightweight\_CNN/README.md)
+  * [MobileNetV1](lightweight\_CNN/01\_MobileNetV1.md)
+  * [MobileNetV2](lightweight\_CNN/02\_MobileNetV2.md)
   * [ResNeXt](learning\_note/lightweight\_cnn/resnext.md)
+  * [ShuffleNet](learning\_note/lightweight\_cnn/shufflenet.md)
 
 ## 🚀 研究生培养常用文件 <a href="#common_files" id="common_files"></a>
 

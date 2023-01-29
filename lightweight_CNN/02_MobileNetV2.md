@@ -14,7 +14,7 @@ ResNet 中的 bottleneck （两头粗，中间细，所以得名），先用1x1�
 
 V2中首先扩展维度，然后用depthwise conv来提取特征，最后再压缩数据，让网络变小。
 
-<figure><img src="../../.gitbook/assets/微信截图_20230125163529.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信截图_20230125163529.jpg" alt=""><figcaption></figcaption></figure>
 
 代码如下，也比较容易理解。B站上有网友对于 MobileNetV2 的详细视频解读《[MobileNet网络详解](https://www.bilibili.com/video/BV1yE411p7L7)》，可以结合视频学习。
 
