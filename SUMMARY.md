@@ -30,6 +30,7 @@
   * [Dropout](model\_optimization/dropout.md)
   * [BN](model\_optimization/bn.md)
   * [LN和IN](model\_optimization/ln\_in.md)
+  * [R-Drop](model\_optimization/r-drop.md)
 
 ## 🚀 研究生培养常用文件 <a href="#common_files" id="common_files"></a>
 
