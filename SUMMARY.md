@@ -23,9 +23,6 @@
   * [MobileNetV2](lightweight\_CNN/02\_MobileNetV2.md)
   * [ResNeXt](learning\_note/lightweight\_cnn/resnext.md)
   * [ShuffleNet](learning\_note/lightweight\_cnn/shufflenet.md)
-
-***
-
 * [模型优化](model\_optimization/README.md)
   * [Dropout](model\_optimization/dropout.md)
   * [BN](model\_optimization/bn.md)
