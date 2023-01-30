@@ -1,4 +1,4 @@
-# ⏰ 准备开题报告
+# 准备开题报告
 
 {% hint style="info" %}
 下面是我整理的一个开题报告的框架，以及各部分如何写。时间仓促，比较粗糙，会随时更新。有问题可以随时邮件联系： [gaofeng@ouc.edu.cn](mailto:gaofeng@ouc.edu.cn)  &#x20;
@@ -31,11 +31,11 @@
 * 逻辑顺序为 **背景==>现状==>当前不足与难点==>“神秘感的词”可以解决这个问题==>解决思路==>强调意义**，可参考江老师的论文第一章。
 * 要给人留下深刻印象，用**统计数据和真实案例讲故事**，说明很有意义，这部分**最好“图文并茂”**。下面提供例子：
 
-<figure><img src="https://img-blog.csdnimg.cn/7563da8286a049f69020e31f30d9fa2a.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/8a09649eb8c74534b9f6739456446c98.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img-blog.csdnimg.cn/c06296d1a0604fcc93cb94a04811bd61.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/99c99814284f4989b5bdc42e68222ad5.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img-blog.csdnimg.cn/9fa9f4f92c3344feb8feefa12e4b5305.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/691525810ab441e99f898916906b2180.jpeg" alt=""><figcaption></figcaption></figure>
 
 如果做PPT汇报的话，下面的可以参考：
 
@@ -45,7 +45,7 @@
 
 文献综述要和计算机视觉顶会的 Related works 一样，**分类叙述并分析**。需要注意的是，研究现状结束以后，**最后要指出来当前研究工作的不足**，可以参考江老师的论文：
 
-<figure><img src="https://img-blog.csdnimg.cn/d431387eaa924a0e80ab6ada7deff471.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/73904b7f0bf9497e9995ba8d064b1c77.jpeg" alt=""><figcaption></figcaption></figure>
 
 开题报告中，参考文献要全而精，硕士论文开题推荐**30篇左右合适**，其中**近3年的CCF A类会议，IEEE/ACM Trans顶级文献占比1/3以上**。
 
