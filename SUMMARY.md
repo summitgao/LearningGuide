@@ -30,6 +30,9 @@
   * [LN和IN](learning\_note/model\_optimization/ln\_in.md)
   * [R-Drop](learning\_note/model\_optimization/r-drop.md)
 
+## 🎯 科研经验 <a href="#research_howto" id="research_howto"></a>
+
+
 ## 🚀 研究生培养常用文件 <a href="#common_files" id="common_files"></a>
 
 * [计算机学院关于进一步加强硕士研究生管理的规定](common\_files/reinforce\_management.md)
