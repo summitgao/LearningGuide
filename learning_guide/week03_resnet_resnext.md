@@ -16,6 +16,8 @@
 
 **AI研习社 “猫狗大战” 比赛（https://god.yanxishe.com/8）**，大家在学习完 LeNet 以后，可以用类似 LetNet 的网络结构参加这个比赛，结果上传以后会有实时得分。 在此基础上，应用 ResNet，看看效果有什么区别。
 
+<figure><img src="https://img-blog.csdnimg.cn/a77cb2afc69541f99a683525ae0d9c34.jpeg" alt=""><figcaption></figcaption></figure>
+
 **本周的思考题：**
 
 1、Residual learning 的基本原理？\
