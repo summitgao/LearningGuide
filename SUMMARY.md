@@ -32,7 +32,7 @@
 
 ## 🎯 科研经验 <a href="#research_howto" id="research_howto"></a>
 
-* [⏰ 准备开题报告](research\_howto/proposal.md)
+* [准备开题报告](research\_howto/proposal.md)
 
 ## 🚀 研究生培养常用文件 <a href="#common_files" id="common_files"></a>
 
