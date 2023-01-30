@@ -11,4 +11,4 @@
 
 归一化（normalization）是深度学习中发展得比较快的一系列算法，批归一化（batch normalization，BN）是被使用得最多的归一化方法，它是用不同样本的同一个通道的特征进行归一化的。BN是无法用在序列模型中的，因为它无法处理同一个批次中数据长度不一致的场景。在这个场景中，层归一化（layer normalization，LN）是被使用得最多的策略，它是在同一个样本的不同通道上进行归一化的，这样便避免了对不同长度的数据进行统计量计算。而在图像生成这类任务中对图像的细节要求比较高，这时候一般使用实例归一化（instance normalization，IN），它是在不同样本、不同通道上做归一化的。组归一化（group normalization，GN）是介于LN和IN之间的一种方案，它将通道分成若干组分别进行归一化的计算。BN、LN、IN和GN的异同如图6.1所示，从左到右依次是BN、LN、IN和GN。下图中，从左往右依次是BN, LN, IN, 和 GN。
 
-<figure><img src="https://img-blog.csdnimg.cn/05f32ce652ac4e5ebc2c8e318683356d.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1e3237ebcd0e80ba88a2dd889a39355f.jpg" alt=""><figcaption></figcaption></figure>
