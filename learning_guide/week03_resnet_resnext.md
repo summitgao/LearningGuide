@@ -21,3 +21,5 @@
 1、Residual learning 的基本原理？\
 2、Batch Normailization 的原理，思考 BN、LN、IN 的主要区别。\
 3、为什么分组卷积可以提升准确率？即然分组卷积可以提升准确率，同时还能降低计算量，分数数量尽量多不行吗？
+
+**附加思考题：**有余力的同学可以学习程明明老师的 Res2Net，体会里面是如何利用分组卷积降低计算量，同时提升网络性能的。感兴趣的同学可以学习一下 Vision Transformer 里的 attention，比较 multi-head 和 分组卷积的区别与联系。

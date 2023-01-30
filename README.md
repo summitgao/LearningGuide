@@ -53,4 +53,4 @@ coverY: 0
 
 相关内容仍在修订，随时更新！大家有问题欢迎随时邮件联系：gaofeng@ouc.edu.cn
 
-<figure><img src=".gitbook/assets/0697e51e-7fdf-4ce1-a9c8-26d5d05a7d60.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/1ed06bc6ee194d1487fa0488520a1c15.jpeg" alt=""><figcaption></figcaption></figure>
