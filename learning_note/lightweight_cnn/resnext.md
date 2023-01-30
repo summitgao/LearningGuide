@@ -6,7 +6,7 @@
 
 ResNeXt本质是分组卷积（group convolution），可以看作是普通卷积和depth-wise conv的折中方案，即将特征图分为若干组，在每个组内部使用普通卷积进行计算。
 
-<figure><img src="https://img-blog.csdnimg.cn/e7035ec433654ae8a16be4ebc01871a5.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20230129173442.jpg" alt=""><figcaption></figcaption></figure>
 
 如图所示，左边是普通的ResNe结构，右边是ResNeXt。相当于是有32个独立的卷积组。每个组里先用1x1卷积，将通道数由256变为4，然后再分别进行3x3卷积，再用1x1卷积将通道数变成256。最后将32组特征直接相加。这里32被称为cardinality。
 
