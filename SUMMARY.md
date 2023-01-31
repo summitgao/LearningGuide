@@ -33,6 +33,7 @@
 ## 🎯 科研经验 <a href="#research_howto" id="research_howto"></a>
 
 * [准备开题报告](research\_howto/proposal.md)
+* [学位论文写作指导](research\_howto/xue-wei-lun-wen-xie-zuo-zhi-dao.md)
 
 ## 🎬 常用资源 <a href="#resources" id="resources"></a>
 
