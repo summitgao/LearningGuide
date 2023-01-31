@@ -4,11 +4,10 @@ Batch Normalization (BN) 是在深度学习中缓解过拟合时选择的诸多�
 
 在之前 ResNet 中我们介绍了 BN 的原理与好处，可以知道，BN的目的是使 feature map 满足均值为0，方差为1的分布规律。算法如下所示：
 
-<figure><img src="../.gitbook/assets/微信截图_20230129225629.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/f000407fa4d64aae8af71de79afbba0a.jpeg" alt=""><figcaption></figcaption></figure>
 
 在CNN中，假设一个 batch 有 m 个样本，feature map 尺寸是 pxq，通道数是 d。在CNN中，BN的操作是以 feature map 为单位的，因此，一个 BN 要统计数据的个数是 mxpxq，每个特征图使用一组 $$\gamma$$ 和 $$\beta$$ 。统计方法如下图所示。
 
-<figure><img src="../.gitbook/assets/26bef466d7542b0c704f230f819b8316.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img-blog.csdnimg.cn/c22c9f6308e0429fbd62da6b495e7aa3.jpeg" alt=""><figcaption></figcaption></figure>
 
 正常来看，使用BN时，batch 设置越大越好，越能接受真实的数据分布。但是硬件资源有限，batch 设置合理即可。
-
