@@ -34,6 +34,7 @@
 
 * [准备开题报告](research\_howto/proposal.md)
 * [硕士学位论文写作指导](research\_howto/xue-wei-lun-wen-xie-zuo-zhi-dao.md)
+* [科研做图指导](research\_howto/keyan\_draw.md)
 
 ## 🎬 常用资源 <a href="#resources" id="resources"></a>
 
