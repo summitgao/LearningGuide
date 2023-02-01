@@ -4,7 +4,7 @@
 研究兴趣：遥感数据智能处理、多媒体计算 \
 E-mail: gaofeng@ouc.edu.cn
 
-&#x20;    [微博](https://www.weibo.com/summitgao)  /  [谷歌学术](https://scholar.google.com/citations?user=k91CLXQAAAAJ)  /  [Github](https://github.com/summitgao)  /  [知乎](https://www.zhihu.com/people/gaopursuit)  &#x20;
+&#x20;    [微博](https://www.weibo.com/summitgao)  /  [谷歌学术](https://scholar.google.com/citations?user=k91CLXQAAAAJ)  /  [Github](https://github.com/summitgao)  /  [知乎](https://www.zhihu.com/people/gaopursuit)  /  [学院主页](http://it.ouc.edu.cn/gf/main.htm)&#x20;
 
 ## 🚩 基本信息
 
