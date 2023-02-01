@@ -11,7 +11,7 @@ coverY: 0
 
 😊欢迎各位优秀的同学咨询，联系的最佳方式是📩EMAIL（gaofeng@ouc.edu.cn），通常会在24小时内回复。
 
-### 🏛️团队成员
+### 🏛️ 团队成员
 
 * 教师： [董军宇](http://it.ouc.edu.cn/djy) 教授 、 [高峰](readme/fenggao.md) 副教授 、 [亓林](http://it.ouc.edu.cn/ql2) 博士
 * 博士： 甘言海、王展梁、张天戈、陈万坤
@@ -19,7 +19,7 @@ coverY: 0
 * 21级硕士： 盖晓晨、陈振伟、吕亮、胡艺锟、石晓晨、孙悦、张浩鹏、王聪、张喜娟、岳梦伊、秦学文、上官心语、胡帅、陶盛恩
 * 22级硕士：姬志豪、林俊彦、王嘉毅、程陆瑶、吴文敏、王玉芳、房召敏、冯涌帆、龙港澳
 
-### 🍀小组动态
+### 🍀 小组动态
 
 * 2023.01 [陈振伟的论文被 IEEE TGRS 接收](http://ai-ouc.cn/news/20230113.html)
 * 2023.01 [王猛的论文被 IEEE TGRS 接收](http://ai-ouc.cn/news/20230106.html)
@@ -30,7 +30,7 @@ coverY: 0
 * 2022.05 [小组成员顺利通过硕士论文毕业答辩](https://blog.csdn.net/gaopursuit/article/details/124792047)
 * 2022.03 [董军宇教授应邀在 “同心坚守 研学战疫”学术系列活动做报告](https://blog.csdn.net/gaopursuit/article/details/124792030)
 
-### 🍀代表论文 \[[详细列表](readme/papers.md)]
+### 🚀 代表论文 \[[详细列表](readme/papers.md)]
 
 1. Y. Meng, E. Rigall, X. Chen, F. Gao, J. Dong and S. Chen, "Physics-Guided Generative Adversarial Networks for Sea Subsurface Temperature Prediction," _IEEE Transactions on Neural Networks and Learning Systems_. (In Press and Accepted) \[[PDF](https://ieeexplore.ieee.org/document/9610615)]
 2. M. Wang, F. Gao, J. Dong, H. -C. Li and Q. Du, "Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-16, 2023. \[[PDF](https://ieeexplore.ieee.org/document/10015054)]\[[Code@Github](https://github.com/summitgao/NNCNet)]
@@ -43,7 +43,7 @@ coverY: 0
 9. Y. Ju, J. Dong and S. Chen, "Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo," _IEEE Transactions on Image Processing_, vol. 30, pp. 3676-3690, 2021. \[[PDF](https://ieeexplore.ieee.org/document/9376632/)]
 10. J. Wang, F. Gao, J. Dong and Q. Du, "Adaptive DropBlock-Enhanced Generative Adversarial Networks for Hyperspectral Image Classification," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 59, no. 6, pp. 5040-5053, June 2021. （ESI 高被引论文）\[[PDF](https://ieeexplore.ieee.org/document/9173809)]\[[Code@Github](https://github.com/summitgao/HC\_ADGAN)]
 
-### 🍀生存手册
+### 🚩 生存手册
 
 《OUC AI理论组生存手册》于2022年由高峰老师创建，由组内研究生共同维护，旨在将组内学习资源制作成gitbook发布，并长期维护该项目，希望能给高年级本科生及实验室新生同学带来微小的帮助，尤其感谢本书相关内容的作者们！目前暂定修改及添加内容如下：
 
