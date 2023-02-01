@@ -1,3 +1,10 @@
+---
+description: Welcome to my homepage！
+cover: >-
+  https://images.unsplash.com/photo-1616400619175-5beda3a17896?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8c3R1ZHl8ZW58MHx8fHwxNjc1MjY1NzEw&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
 # Feng Gao (高峰)
 
 中国海洋大学计算机科学与技术学院，副教授 \
