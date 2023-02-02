@@ -13,7 +13,7 @@ coverY: 0
 
 ### 🏛️ 团队成员
 
-* 教师： [董军宇](http://it.ouc.edu.cn/djy) 教授 、 [高峰](readme/fenggao.md) 副教授 、 [亓林](http://it.ouc.edu.cn/ql2) 博士
+* 教师： [董军宇](http://it.ouc.edu.cn/djy) 教授 、 [高峰](group/fenggao.md) 副教授 、 [亓林](http://it.ouc.edu.cn/ql2) 博士
 * 博士： 甘言海、王展梁、张天戈、陈万坤
 * 20级硕士： 焦淑婷、刘彦汝、张马群、徐云哲、李欣、王猛 、潘浩东、冯敏、杨紫陌、龚卓然、李艳秋、李宁、李烁成、周楷洺
 * 21级硕士： 盖晓晨、陈振伟、吕亮、胡艺锟、石晓晨、孙悦、张浩鹏、王聪、张喜娟、岳梦伊、秦学文、上官心语、胡帅、陶盛恩
@@ -30,7 +30,7 @@ coverY: 0
 * 2022.05 [小组成员顺利通过硕士论文毕业答辩](https://blog.csdn.net/gaopursuit/article/details/124792047)
 * 2022.03 [董军宇教授应邀在 “同心坚守 研学战疫”学术系列活动做报告](https://blog.csdn.net/gaopursuit/article/details/124792030)
 
-### 🚀 代表论文 \[[详细列表](readme/papers.md)]
+### 🚀 代表论文 \[[详细列表](group/papers.md)]
 
 1. Y. Meng, E. Rigall, X. Chen, F. Gao, J. Dong and S. Chen, "Physics-Guided Generative Adversarial Networks for Sea Subsurface Temperature Prediction," _IEEE Transactions on Neural Networks and Learning Systems_. (In Press and Accepted) \[[PDF](https://ieeexplore.ieee.org/document/9610615)]
 2. M. Wang, F. Gao, J. Dong, H. -C. Li and Q. Du, "Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-16, 2023. \[[PDF](https://ieeexplore.ieee.org/document/10015054)]\[[Code@Github](https://github.com/summitgao/NNCNet)]
