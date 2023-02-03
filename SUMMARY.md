@@ -10,6 +10,7 @@
 * [【第一周】深度学习基础](learning\_guide/week01\_basic.md)
 * [【第二周】卷积神经网络](learning\_guide/week02\_CNNs.md)
 * [【第三周】ResNet+ResNeXt](learning\_guide/week03\_resnet\_resnext.md)
+* [【第四周】MobileNet\_ShuffleNet](learning\_guide/week04\_mobile\_cnn.md)
 
 ## 🤖 学习笔记 <a href="#learning_note" id="learning_note"></a>
 
