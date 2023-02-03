@@ -23,7 +23,7 @@
 
 ## **Part2  代码作业**
 
-阅读论文《HybridSN: Exploring 3-D–2-DCNN Feature Hierarchy for Hyperspectral Image Classification》，思考3D卷积和2D卷积的区别。并阅读代码（[代码地址](https://github.com/OUCTheoryGroup/colab\_demo/blob/master/202003\_models/HybridSN\_GRSL2020.ipynb)
+阅读论文《HybridSN: Exploring 3-D–2-DCNN Feature Hierarchy for Hyperspectral Image Classification》，思考3D卷积和2D卷积的区别。并阅读代码 ([代码地址](https://github.com/OUCTheoryGroup/colab\_demo/blob/master/202003\_models/HybridSN\_GRSL2020.ipynb))
 
 把代码敲入 Colab 运行，网络部分需要自己完成。
 
