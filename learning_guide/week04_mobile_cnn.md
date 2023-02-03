@@ -21,12 +21,16 @@
 
 * 阅读Momenta公司的《[ImageNet 2017冠军模型SE-Net详解](https://www.momenta.cn/article/20.html)》，掌握 SENet 的基本原理，[代码地址](https://github.com/OUCTheoryGroup/colab\_demo/blob/master/202003\_models/SENet\_CIFAR10.ipynb)
 
-&#x20;
-
 ## **Part2  代码作业**
 
 阅读论文《HybridSN: Exploring 3-D–2-DCNN Feature Hierarchy for Hyperspectral Image Classification》，思考3D卷积和2D卷积的区别。并阅读代码（[代码地址](https://github.com/OUCTheoryGroup/colab\_demo/blob/master/202003\_models/HybridSN\_GRSL2020.ipynb)
 
-）把代码敲入 Colab 运行，网络部分需要自己完成。训练网络，然后多测试几次，**会发现每次分类的结果都不一样，请思考为什么？同时，思考问题，如果想要进一步提升高光谱图像的分类性能，可以如何改进？这些思考写在本周作业博客里。**
+把代码敲入 Colab 运行，网络部分需要自己完成。
 
-&#x20;
+## 思考题
+
+* 训练HybridSN，然后多测试几次，会发现每次分类的结果都不一样，请思考为什么？
+* 如果想要进一步提升高光谱图像的分类性能，可以如何改进？
+* depth-wise conv 和 分组卷积有什么区别与联系？
+* SENet 的注意力是不是可以加在空间位置上？
+* 在 ShuffleNet 中，通道的 shuffle 如何用代码实现？
