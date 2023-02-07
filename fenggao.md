@@ -32,7 +32,7 @@ _**\[2023年2月更新]**_
 * 2022.10 [甘言海的论文被国际顶级期刊 IEEE TIP 录用](http://ai-ouc.cn/news/20221001.html)
 * 2022.08 [本科生孟德森的论文被 IEEE GRSL 录用](http://ai-ouc.cn/news/20220813.html)
 
-## 🎯 近期代表论文 【[更多论文](papers.md)】
+## 🎯 近期代表论文 【[更多论文](group/papers.md)】
 
 1. Y. Meng, E. Rigall, X. Chen, F. Gao\*, J. Dong\* and S. Chen, "Physics-Guided Generative Adversarial Networks for Sea Subsurface Temperature Prediction," _IEEE Transactions on Neural Networks and Learning Systems. (In Press and Accepted)_ \[[PDF](https://arxiv.org/pdf/2111.03064.pdf)] \[[Code@github](https://github.com/mengyuxin520/PGGAN)] （先验知识引导的海洋数据处理）
 2. M. Wang, F. Gao\*, J. Dong, H. -C. Li and Q. Du, "Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023. \[[PDF](https://ieeexplore.ieee.org/document/10015054)]\[[Code@Github](https://github.com/summitgao/NNCNet)]（基于无监督预训练的多源遥感图像分类）

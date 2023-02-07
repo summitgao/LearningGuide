@@ -12,7 +12,31 @@
 * **模型图：**论文的总体框架图、模块细节图、流程图等
 * **数据展示图：** 展示数据的折线图、柱状图、散点图等
 
+无论是哪种图，参考最近的CV顶会论文，配色一般是淡蓝、淡红、淡黄、淡绿 四种，有时会用 紫色、灰色补充（紫色多用于模块，灰色多用于小区域或者大面积打底）。整个论文的配色风格需要一致，比如说后面的折线图、柱状图、散点图最好还是以前面框架的颜色一致。（如果前面模型图是淡蓝色，后面再出现过于鲜艳的其它颜色就有些突兀）
 
+下面展示一些典型模型图的例子：
+
+<figure><img src="https://img-blog.csdnimg.cn/68bb7c116b284137946892b545ac22ad.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/7b084e5b191d4c93b2c87f2543507f39.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/35946474d10b48c4950dce49b464e812.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/e6ef00159dc148b1afd1e2eb24987f8a.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/af1bc947e21449cd9c1eedae7dc07c80.png" alt=""><figcaption></figcaption></figure>
+
+下面展示一些典型数据展示图的例子：
+
+<figure><img src="https://img-blog.csdnimg.cn/9e1ff455077a466c856db61f605e59bc.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/d9dc039dad304438932887dfda9a9c57.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/f283259125974c1ea51a0c75da9d9bee.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/c53e5d7110764462aefef4291b8fe6f9.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://img-blog.csdnimg.cn/778c06170e284a7f902eef95f6177d77.png" alt=""><figcaption></figcaption></figure>
 
 ## 1、模型图
 
@@ -32,11 +56,11 @@
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/ba2c9a13811b42b4b8233a06818cfb45.png)
 
-这些图都是可以用PPT画出来的。需要注意的是：（1）色调不会很深，给人淡淡很舒服的感觉；（2）论文中需要给多个模块绘图，或者出现折线图、柱状图，颜色字体风格要前后一致。如果不一致会给人感觉很突兀。比如NeurIPS2022的P2P，因为使用了蓝、绿、紫、红、黄等颜色，在后面的实验里仍然使用这些颜色绘制柱状图。后面的Ablation illustration，颜色字体也没有发生变化，风格非常一致。（3）图片可以直接导出为PDF，使用软件裁剪后即可插入到论文中，这样插入到论文里的是矢量图，效果非常好。
+这些图都是可以用PPT画出来的。需要注意的是：（1）色调不会很深，给人很舒服的感觉；（2）论文中需要给多个模块绘图，或者出现折线图、柱状图，颜色字体风格要前后一致。如果不一致会给人感觉很突兀。比如NeurIPS2022的P2P，因为使用了蓝、绿、紫、红、黄，在后面的实验里仍然使用这些颜色绘制柱状图，颜色字体也没有发生变化，风格非常一致（如下图）。（3）PPT文件可以直接导出为PDF，使用软件裁剪后即可插入到论文中，这样插入到论文里的是矢量图，效果非常好。
 
-![请添加图片描述](https://img-blog.csdnimg.cn/7d5425cc751b467c9463304e7bfb4ea9.png)
+![P2P实验部分图](https://img-blog.csdnimg.cn/7d5425cc751b467c9463304e7bfb4ea9.png)
 
-![请添加图片描述](https://img-blog.csdnimg.cn/a9007d0ebfa34091b2cc3dc0417200a3.png)
+![P2P实验部分图](https://img-blog.csdnimg.cn/a9007d0ebfa34091b2cc3dc0417200a3.png)
 
 
 
@@ -46,11 +70,15 @@
 
 下图是我用AxGlyph画的一个折线图供大家参考，[下载地址](https://gaopursuit.oss-cn-beijing.aliyuncs.com/2023/demo\_line.agx)。
 
-![请添加图片描述](https://img-blog.csdnimg.cn/d09ddb509dc54107a046f59330aa8a00.png)
+<figure><img src="https://img-blog.csdnimg.cn/593134700ac74d379d22caad660b2dae.png" alt=""><figcaption></figcaption></figure>
 
 下图是我用AxGlyph画的一个柱状图供大家参考，[下载地址](https://gaopursuit.oss-cn-beijing.aliyuncs.com/2023/demo\_histo.agx)。
 
-![请添加图片描述](https://img-blog.csdnimg.cn/38f6d52fa34d4b4887372c945dca2a5b.png)
+<figure><img src="https://img-blog.csdnimg.cn/051a5a05319b4e19abeda30b9a5fc82d.png" alt=""><figcaption></figcaption></figure>
+
+当同时在论文里需要多个数据图、拆线图时，颜色也可以适当变化，如下图所示，效果也不错。
+
+<figure><img src="https://img-blog.csdnimg.cn/5cbfe8fa6e4a4729ad6830597573f746.png" alt=""><figcaption></figcaption></figure>
 
 可以看出，AxGlyph绘制的图，是比 office 默认要美观的，而且支持直接导出为PDF，可以以矢量的形式直接在论文里使用。我最近论文里的一些展示数据的图也都是用AxGlyph绘制（如下图），效果比较好，所以向大家推荐这个工具。
 

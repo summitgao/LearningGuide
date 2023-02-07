@@ -1,8 +1,9 @@
 # Table of contents
 
 * [😁 Welcome](README.md)
-  * [Feng Gao (高峰)](group/fenggao.md)
   * [小组论文成果](group/papers.md)
+* [Feng Gao (高峰)](fenggao.md)
+* [Lin Qi (亓林)](linqi.md)
 
 ## 🏁 学习指导 <a href="#learning_guide" id="learning_guide"></a>
 
