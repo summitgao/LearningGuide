@@ -33,6 +33,10 @@
   * [LN和IN](learning\_note/model\_optimization/ln\_in.md)
   * [R-Drop](learning\_note/model\_optimization/r-drop.md)
 
+## 📕 课程学习 <a href="#classes" id="classes"></a>
+
+* [23春论文写作和学术规范课](classes/23-chun-lun-wen-xie-zuo-he-xue-shu-gui-fan-ke.md)
+
 ## 🎯 科研经验 <a href="#research_howto" id="research_howto"></a>
 
 * [准备开题报告](research\_howto/proposal.md)
