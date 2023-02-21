@@ -35,7 +35,7 @@
 
 ## 📕 课程学习 <a href="#classes" id="classes"></a>
 
-* [23春论文写作和学术规范课](classes/23-chun-lun-wen-xie-zuo-he-xue-shu-gui-fan-ke.md)
+* [23春论文写作和学术规范课](classes/paper-writing.md)
 
 ## 🎯 科研经验 <a href="#research_howto" id="research_howto"></a>
 
